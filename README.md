@@ -56,11 +56,11 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 ---
 
 ### Profile View's:
-![Profile Views](https://profile-counter.glitch.me/RITHISH01/count.svg)
+![Profile Views](https://profile-counter.glitch.me/RITHISH0109/count.svg)
 
 ---
 
 ### Contribution Graph
-[![RITHISH R's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RITHISH01&bg_color=030303&color=ec0914&line=dfeb2d&point=383838&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![RITHISH R's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RITHISH0109&bg_color=030303&color=ec0914&line=dfeb2d&point=383838&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
