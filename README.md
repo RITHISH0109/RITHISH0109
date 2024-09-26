@@ -1,4 +1,4 @@
-👋
+
 
 <!--
 **RITHISH0109/RITHISH0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
