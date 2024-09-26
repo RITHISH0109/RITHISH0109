@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on Ma
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RITHISH01&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RITHISH0109&show_icons=true&theme=radical)
 
 
 ### 🏆 Featured Projects:
